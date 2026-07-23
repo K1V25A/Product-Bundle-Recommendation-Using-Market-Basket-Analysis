@@ -1,5 +1,5 @@
- **Product Bundle Recommendation Using Market Basket Analysis and Time-Series Clustering
- Overview**
+ ##Product Bundle Recommendation Using Market Basket Analysis and Time-Series Clustering
+ Overview##
 
 This project recommends product bundles for e-commerce businesses by analyzing customer purchase history. It combines Market Basket Analysis and Time-Series Clustering to identify products that are frequently bought together and understand their demand patterns.
 
